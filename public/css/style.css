@@ -1,0 +1,82 @@
+/* body{
+
+}
+.login_container{
+  display:grid; 
+  place-items:center; 
+  margin-top:270px; 
+  margin-left: 500px;
+  border:2px solid #2eca6a; 
+  border-radius:10px;
+  width: 500px;
+  height: 400;
+
+  color: #2eca6a;
+}
+.email_text{
+  display:block;
+   margin-top: 10px;
+    width:100%;
+    border:2px solid #000; 
+  border-radius:10px;
+}
+.pass_text{
+  display:block;
+   margin-top: 10px;
+    width:100%;
+    border:2px solid #000; 
+  border-radius:10px;
+}
+.email_text:focus{
+  border-color: #2eca6a; 
+  
+}
+.pass_text:active{
+  border-color: #2eca6a; 
+  
+} */
+
+.gradient-custom-2 {
+  /* fallback for old browsers */
+  background: #fccb90;
+  
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, #2eca6a, #17cc5c, #2ea2b3, #0175e8);
+  
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, #2eca6a, #17cc5c, #2ea2b3, #0175e8);
+  }
+  
+  @media (min-width: 768px) {
+  .gradient-form {
+  height: 100vh !important;
+  }
+  }
+  @media (min-width: 769px) {
+  .gradient-custom-2 {
+  border-top-right-radius: .3rem;
+  border-bottom-right-radius: .3rem;
+  }
+  }
+
+  .gradient-custom {
+    /* fallback for old browsers */
+    background: #f093fb;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to bottom right,#2eca6a, #17cc5c, #2ea2b3, #0175e8);
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to bottom right,#2eca6a, #17cc5c, #2ea2b3, #0175e8);
+    }
+    
+    .card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+    }
+    .card-registration .select-arrow {
+    top: 13px;
+    }
+   
