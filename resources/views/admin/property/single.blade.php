@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Broker Free</title>
+  <title>RentEase </title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -600,11 +600,11 @@
         <div class="col-sm-12 col-md-4">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">Broker Free</h3>
+              <h3 class="w-title-a text-brand">RentEase </h3>
             </div>
             <div class="w-body-a">
               <p class="w-text-a color-text-a">
-                Broker Free is a property rental web app that revolutionizes the rental experience by eliminating the need
+              RentEase  is a property rental web app that revolutionizes the rental experience by eliminating the need
                 for brokers. With a user-friendly interface, it connects landlords directly with tenants, offering a hassle-free platform for renting properties without any middlemen, saving time and money.
               </p>
             </div>

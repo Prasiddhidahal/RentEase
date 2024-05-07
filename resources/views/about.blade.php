@@ -58,7 +58,7 @@
           <div class="sinse-box">
             <h3 class="sinse-title">RentEase
 
-              <br> Sinse 2023</h3>
+              <br> Since 2024</h3>
             <p>Property Rental Website</p>
           </div>
         </div>
